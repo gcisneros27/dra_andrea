@@ -52,7 +52,7 @@ export const Home = () => {
                                 <a href="" className="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contactame</a>
                             </div>
                             <div className="col-lg-6 text-center text-lg-start">
-                                <img className="img-fluid animated zoomIn" src="img/hero.png" alt="" />
+                                <img className="img-fluid animated zoomIn" src="img/logo_hero.png" alt="" />
                             </div>
                         </div>
                     </div>
